@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\MyProjects\HotelListingProject\HotelListingProject\HotelListing.Core\bin\Debug\net5.0\HotelListing.Core.deps.json
+C:\Users\hp\Desktop\MyProjects\HotelListingProject\HotelListingProject\HotelListing.Core\bin\Debug\net5.0\HotelListing.Core.runtimeconfig.json
+C:\Users\hp\Desktop\MyProjects\HotelListingProject\HotelListingProject\HotelListing.Core\bin\Debug\net5.0\HotelListing.Core.runtimeconfig.dev.json
+C:\Users\hp\Desktop\MyProjects\HotelListingProject\HotelListingProject\HotelListing.Core\bin\Debug\net5.0\HotelListing.Core.dll
+C:\Users\hp\Desktop\MyProjects\HotelListingProject\HotelListingProject\HotelListing.Core\bin\Debug\net5.0\ref\HotelListing.Core.dll
+C:\Users\hp\Desktop\MyProjects\HotelListingProject\HotelListingProject\HotelListing.Core\bin\Debug\net5.0\HotelListing.Core.pdb
+C:\Users\hp\Desktop\MyProjects\HotelListingProject\HotelListingProject\HotelListing.Core\obj\Debug\net5.0\HotelListing.Core.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\MyProjects\HotelListingProject\HotelListingProject\HotelListing.Core\obj\Debug\net5.0\HotelListing.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\MyProjects\HotelListingProject\HotelListingProject\HotelListing.Core\obj\Debug\net5.0\HotelListing.Core.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\MyProjects\HotelListingProject\HotelListingProject\HotelListing.Core\obj\Debug\net5.0\HotelListing.Core.AssemblyInfo.cs
+C:\Users\hp\Desktop\MyProjects\HotelListingProject\HotelListingProject\HotelListing.Core\obj\Debug\net5.0\HotelListing.Core.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\MyProjects\HotelListingProject\HotelListingProject\HotelListing.Core\obj\Debug\net5.0\HotelListing.Core.dll
+C:\Users\hp\Desktop\MyProjects\HotelListingProject\HotelListingProject\HotelListing.Core\obj\Debug\net5.0\ref\HotelListing.Core.dll
+C:\Users\hp\Desktop\MyProjects\HotelListingProject\HotelListingProject\HotelListing.Core\obj\Debug\net5.0\HotelListing.Core.pdb
+C:\Users\hp\Desktop\MyProjects\HotelListingProject\HotelListingProject\HotelListing.Core\obj\Debug\net5.0\HotelListing.Core.genruntimeconfig.cache
