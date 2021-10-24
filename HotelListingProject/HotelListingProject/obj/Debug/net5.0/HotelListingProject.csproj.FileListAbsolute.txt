@@ -78,3 +78,4 @@ C:\Users\hp\Desktop\MyProjects\HotelListingProject\HotelListingProject\HotelList
 C:\Users\hp\Desktop\MyProjects\HotelListingProject\HotelListingProject\HotelListingProject\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\hp\Desktop\MyProjects\HotelListingProject\HotelListingProject\HotelListingProject\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
 C:\Users\hp\Desktop\MyProjects\HotelListingProject\HotelListingProject\HotelListingProject\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\hp\Desktop\MyProjects\HotelListingProject\HotelListingProject\HotelListingProject\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
