@@ -37,7 +37,12 @@ namespace HotelListingProject
 
             );
 
-            services.AddTransient<IUnitOfWork, UnitOfWork>();
+
+
+            services.AddAuthentication();
+            services.ConfigureIdentity();
+
+            
 
             services.AddSingleton(Log.Logger);
             
@@ -50,6 +55,7 @@ namespace HotelListingProject
             });
 
             services.AddAutoMapper(typeof(MapperInitializer));
+            services.AddTransient<IUnitOfWork, UnitOfWork>();
 
             services.AddSwaggerGen(c =>
             {

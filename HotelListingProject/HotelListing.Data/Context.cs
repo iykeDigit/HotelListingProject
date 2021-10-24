@@ -1,5 +1,7 @@
-﻿using HotelListingProject;
+﻿using HotelListing.Model;
+using HotelListingProject;
 using HotelListingProject.Model;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -8,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace HotelListing.Data
 {
-    public class Context : DbContext
+    public class Context : IdentityDbContext<AppUser>
     {
         public Context(DbContextOptions options): base(options)
         {}
@@ -18,6 +20,7 @@ namespace HotelListing.Data
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
+            base.OnModelCreating(builder);
             builder.Entity<Country>().HasData(
                 new Country
                 {
